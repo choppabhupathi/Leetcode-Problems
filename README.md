@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
