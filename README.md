@@ -111,15 +111,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0097-interleaving-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
