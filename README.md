@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
