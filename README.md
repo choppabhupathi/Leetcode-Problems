@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0566-reshape-the-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -168,4 +170,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0725-split-linked-list-in-parts) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
