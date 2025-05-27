@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0326-power-of-three](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0564-find-the-closest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0564-find-the-closest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
