@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0179-largest-number) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [3321-type-of-triangle](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -136,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Graph
 |  |
 | ------- |
