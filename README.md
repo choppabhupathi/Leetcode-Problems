@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 ## String
 |  |
 | ------- |
