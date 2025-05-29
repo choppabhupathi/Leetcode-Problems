@@ -239,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
