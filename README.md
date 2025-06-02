@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0835-linked-list-components) |
 ## Divide and Conquer
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0445-add-two-numbers-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
