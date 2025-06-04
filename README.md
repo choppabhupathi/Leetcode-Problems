@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
