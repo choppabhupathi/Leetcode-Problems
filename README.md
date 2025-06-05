@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0336-palindrome-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 | [0368-largest-divisible-subset](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0493-reverse-pairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-linked-list-components](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0835-linked-list-components) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
