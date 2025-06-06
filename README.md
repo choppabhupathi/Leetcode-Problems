@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## String
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Depth-First Search
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Design
 |  |
 | ------- |
