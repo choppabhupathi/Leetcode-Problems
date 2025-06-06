@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0310-minimum-height-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -241,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Linked List
 |  |
