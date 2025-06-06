@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
