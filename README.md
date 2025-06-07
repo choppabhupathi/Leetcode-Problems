@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
