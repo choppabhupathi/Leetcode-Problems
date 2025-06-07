@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
