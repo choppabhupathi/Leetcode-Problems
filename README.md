@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 ## Counting
 |  |
