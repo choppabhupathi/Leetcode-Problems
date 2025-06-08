@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [0952-word-subsets](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0835-linked-list-components](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0835-linked-list-components) |
+| [0952-word-subsets](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0649-dota2-senate](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0649-dota2-senate) |
+| [0952-word-subsets](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
