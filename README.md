@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
