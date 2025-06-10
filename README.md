@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0566-reshape-the-matrix](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
