@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
