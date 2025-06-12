@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
