@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0327-count-of-range-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
