@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2050-count-good-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
