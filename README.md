@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Depth-First Search
 |  |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Enumeration
 |  |
 | ------- |
