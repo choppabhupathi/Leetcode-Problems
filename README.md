@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3321-type-of-triangle) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0835-linked-list-components) |
 | [0952-word-subsets](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Queue
 |  |
