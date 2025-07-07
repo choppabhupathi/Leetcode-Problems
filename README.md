@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0290-word-pattern](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/choppabhupathi/Leetcode-Problems/tree/master/0097-interleaving-string) |
